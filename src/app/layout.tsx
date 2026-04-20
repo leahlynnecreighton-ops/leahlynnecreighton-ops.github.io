@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
+import Image from "next/image";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -27,25 +28,37 @@ export default function RootLayout({
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
       <body className="min-h-screen flex flex-col bg-white text-slate-900 antialiased">
         <header className="sticky top-0 z-50 w-full border-b border-slate-100 bg-white/80 backdrop-blur-md">
-          <div className="container mx-auto px-4 h-20 flex items-center justify-between">
-            <Link href="/" className="text-2xl font-bold tracking-tight text-slate-900">
+          <div className="container mx-auto px-4 h-20 flex items-center justify-between gap-4">
+            <Link href="/" className="text-2xl font-bold tracking-tight text-slate-900 whitespace-nowrap">
               LEAH <span className="text-blue-700">CREIGHTON</span>
             </Link>
             
-            <nav className="hidden md:flex items-center gap-8 text-sm font-medium uppercase tracking-wider text-slate-600">
-              <Link href="/buy" className="hover:text-blue-700 transition-colors">Buy</Link>
-              <Link href="/sell" className="hover:text-blue-700 transition-colors">Sell</Link>
-              <Link href="/blog" className="hover:text-blue-700 transition-colors">Blog</Link>
-              <Link href="/contact" className="hover:text-blue-700 transition-colors font-semibold">Contact</Link>
-            </nav>
+            <div className="flex items-center gap-6 lg:gap-12 ml-auto">
+              <nav className="hidden md:flex items-center gap-8 text-sm font-medium uppercase tracking-wider text-slate-600">
+                <Link href="/buy" className="hover:text-blue-700 transition-colors">Buy</Link>
+                <Link href="/sell" className="hover:text-blue-700 transition-colors">Sell</Link>
+                <Link href="/blog" className="hover:text-blue-700 transition-colors">Blog</Link>
+                <Link href="/contact" className="hover:text-blue-700 transition-colors font-semibold">Contact</Link>
+              </nav>
 
-            <div className="md:hidden">
-              {/* Mobile Menu Placeholder */}
-              <button className="p-2">
-                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
-                </svg>
-              </button>
+              <div className="flex-shrink-0 h-16 w-auto py-2">
+                <Image 
+                  src="/images/lpt-logo.png" 
+                  alt="LPT Realty Logo" 
+                  width={150} 
+                  height={60} 
+                  className="h-full w-auto object-contain"
+                  priority
+                />
+              </div>
+
+              <div className="md:hidden">
+                <button className="p-2 text-slate-900">
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
+                  </svg>
+                </button>
+              </div>
             </div>
           </div>
         </header>
