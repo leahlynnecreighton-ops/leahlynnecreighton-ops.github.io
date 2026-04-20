@@ -1,19 +1,24 @@
+import Link from "next/link";
+
 export default function BlogPage() {
   const posts = [
     {
       title: "12 Things I Learned About Real Estate in the Past Year",
       excerpt: "The market is constantly evolving. From list price strategies to the emotional logic of negotiations, here is what 12 months in real estate taught me.",
       date: "April 20, 2026",
+      slug: "first-blog",
     },
     {
       title: "How to Stage Your Home for a Quick Sale",
       excerpt: "First impressions are everything. Learn how to highlight your home's best features.",
       date: "April 28, 2026",
+      slug: "#",
     },
     {
       title: "Market Trends: What to Expect this Summer",
       excerpt: "An analysis of current inventory levels and interest rate projections.",
       date: "April 10, 2026",
+      slug: "#",
     },
   ];
 
@@ -29,15 +34,15 @@ export default function BlogPage() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {posts.map((post, i) => (
-          <div key={i} className="group cursor-pointer">
+          <Link key={i} href={post.slug === "#" ? "/blog" : `/blog/${post.slug}`} className="group cursor-pointer block">
             <div className="aspect-[16/10] bg-slate-100 mb-6 overflow-hidden">
               <div className="w-full h-full bg-slate-200 group-hover:scale-105 transition-transform duration-500"></div>
             </div>
             <p className="text-xs font-bold text-blue-700 uppercase tracking-widest mb-2">{post.date}</p>
             <h3 className="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors">{post.title}</h3>
             <p className="text-slate-600 text-sm leading-relaxed mb-4">{post.excerpt}</p>
-            <span className="text-xs font-bold uppercase tracking-widest border-b-2 border-blue-700 pb-1">Read More</span>
-          </div>
+            <span className="text-xs font-bold uppercase tracking-widest border-b-2 border-blue-700 pb-1 group-hover:border-blue-900 transition-colors">Read More</span>
+          </Link>
         ))}
       </div>
     </div>
