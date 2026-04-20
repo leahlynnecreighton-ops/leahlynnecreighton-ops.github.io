@@ -1,9 +1,9 @@
 export default function BlogPage() {
   const posts = [
     {
-      title: "5 Tips for First-Time Homebuyers",
-      excerpt: "Navigating the market for the first time can be daunting. Here is what you need to know.",
-      date: "May 15, 2026",
+      title: "12 Things I Learned About Real Estate in the Past Year",
+      excerpt: "The market is constantly evolving. From list price strategies to the emotional logic of negotiations, here is what 12 months in real estate taught me.",
+      date: "April 20, 2026",
     },
     {
       title: "How to Stage Your Home for a Quick Sale",
