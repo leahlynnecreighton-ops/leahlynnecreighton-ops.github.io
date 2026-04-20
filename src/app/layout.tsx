@@ -35,6 +35,7 @@ export default function RootLayout({
             
             <div className="flex items-center gap-6 lg:gap-12 ml-auto">
               <nav className="hidden md:flex items-center gap-8 text-sm font-medium uppercase tracking-wider text-slate-600">
+                <Link href="/" className="hover:text-blue-700 transition-colors">Home</Link>
                 <Link href="/buy" className="hover:text-blue-700 transition-colors">Buy</Link>
                 <Link href="/sell" className="hover:text-blue-700 transition-colors">Sell</Link>
                 <Link href="/blog" className="hover:text-blue-700 transition-colors">Blog</Link>
