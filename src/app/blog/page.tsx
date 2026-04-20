@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function BlogPage() {
   const posts = [
@@ -7,6 +8,7 @@ export default function BlogPage() {
       excerpt: "The market is constantly evolving. From list price strategies to the emotional logic of negotiations, here is what 12 months in real estate taught me.",
       date: "April 20, 2026",
       slug: "first-blog",
+      image: "/images/blog/city-map.jpg",
     },
     {
       title: "How to Stage Your Home for a Quick Sale",
@@ -35,8 +37,17 @@ export default function BlogPage() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {posts.map((post, i) => (
           <Link key={i} href={post.slug === "#" ? "/blog" : `/blog/${post.slug}`} className="group cursor-pointer block">
-            <div className="aspect-[16/10] bg-slate-100 mb-6 overflow-hidden">
-              <div className="w-full h-full bg-slate-200 group-hover:scale-105 transition-transform duration-500"></div>
+            <div className="aspect-[16/10] bg-slate-100 mb-6 overflow-hidden relative">
+              {post.image ? (
+                <Image 
+                  src={post.image} 
+                  alt={post.title} 
+                  fill 
+                  className="object-cover group-hover:scale-105 transition-transform duration-500"
+                />
+              ) : (
+                <div className="w-full h-full bg-slate-200 group-hover:scale-105 transition-transform duration-500"></div>
+              )}
             </div>
             <p className="text-xs font-bold text-blue-700 uppercase tracking-widest mb-2">{post.date}</p>
             <h3 className="text-xl font-bold mb-3 group-hover:text-blue-700 transition-colors">{post.title}</h3>

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export default function FirstBlogPost() {
   const points = [
@@ -71,8 +72,14 @@ export default function FirstBlogPost() {
           </div>
         </header>
 
-        <div className="aspect-[21/9] bg-slate-100 mb-16 overflow-hidden">
-          <div className="w-full h-full bg-slate-200"></div>
+        <div className="aspect-[21/9] bg-slate-100 mb-16 overflow-hidden relative">
+          <Image 
+            src="/images/blog/city-map.jpg" 
+            alt="City Map" 
+            fill 
+            className="object-cover"
+            priority
+          />
         </div>
 
         <div className="space-y-12">
