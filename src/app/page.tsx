@@ -30,29 +30,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Trust / Stats Section */}
-      <section className="py-20 w-full bg-white border-y border-slate-100">
-        <div className="container mx-auto px-4">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-            <div>
-              <p className="text-4xl font-bold text-slate-900 mb-1">15+</p>
-              <p className="text-sm uppercase tracking-widest text-slate-500 font-semibold">Years Experience</p>
-            </div>
-            <div>
-              <p className="text-4xl font-bold text-slate-900 mb-1">200+</p>
-              <p className="text-sm uppercase tracking-widest text-slate-500 font-semibold">Homes Sold</p>
-            </div>
-            <div>
-              <p className="text-4xl font-bold text-slate-900 mb-1">100%</p>
-              <p className="text-sm uppercase tracking-widest text-slate-500 font-semibold">Client Focus</p>
-            </div>
-            <div>
-              <p className="text-4xl font-bold text-slate-900 mb-1">A+</p>
-              <p className="text-sm uppercase tracking-widest text-slate-500 font-semibold">Service Rating</p>
-            </div>
-          </div>
-        </div>
-      </section>
+
 
       {/* Featured Services Preview */}
       <section className="py-24 container mx-auto px-4">
