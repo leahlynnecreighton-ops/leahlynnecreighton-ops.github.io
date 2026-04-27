@@ -11,7 +11,7 @@ export default function BlogPage() {
       image: "/images/blog/city-map.jpg",
     },
     {
-      title: "How to Stage Your Home for a Quick Sale",
+      title: "Market Value isn't the same as List Price",
       excerpt: "First impressions are everything. Learn how to highlight your home's best features.",
       date: "April 28, 2026",
       slug: "#",
