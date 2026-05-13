@@ -132,7 +132,7 @@ export default function PreApprovalBlogPost() {
           <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">How to Get Started</h3>
           <div className="space-y-4 mb-12">
             <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">1.</span> Choose a lender — your bank, a credit union, or a mortgage broker. Shop around; rates and terms vary.</p>
-            <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">2.</span> Gather your documents — recent pay stubs, W-2s or tax returns (two years), bank statements, and your Social Security number for a credit check.</p>
+            <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">2.</span> Gather your documents</p>
             <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">3.</span> Submit your application — the lender reviews everything, applies the stress test, and if approved, issues a pre-approval letter with a specific loan amount and rate-hold period (typically 60–120 days).</p>
             <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">4.</span> Then go shopping — now you're ready.</p>
           </div>
