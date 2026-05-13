@@ -14,9 +14,9 @@ export default function PreApprovalBlogPost() {
           <h1 className="text-5xl md:text-6xl font-bold text-slate-900 mb-8 italic font-serif leading-tight">
             Pre-approval comes before shopping.
           </h1>
-          <h2 className="text-2xl text-slate-600 mb-8 font-light leading-relaxed">
-            Why Pre-Approval Isn't Optional — It's Your Secret Weapon
-          </h2>
+          <p className="text-xl text-slate-600 mb-8 leading-relaxed font-light">
+            A buyer who’s pre-approved is stronger, faster, and more attractive to sellers.
+          </p>
           <div className="flex items-center gap-4 text-slate-500 text-sm font-medium uppercase tracking-wider">
             <span>May 13, 2026</span>
             <span className="w-1 h-1 bg-slate-300 rounded-full"></span>
@@ -25,6 +25,10 @@ export default function PreApprovalBlogPost() {
         </header>
 
         <div className="prose prose-slate prose-lg max-w-none">
+          <h2 className="text-3xl font-bold text-slate-900 mb-8 italic font-serif">
+            Why Pre-Approval Isn't Optional — It's Your Secret Weapon
+          </h2>
+
           <p className="text-xl text-slate-700 leading-relaxed font-medium mb-8">
             Start with your lender.
           </p>
@@ -33,7 +37,7 @@ export default function PreApprovalBlogPost() {
             There's a moment every first-time homebuyer knows: you find the one. The kitchen, the backyard, the light through the windows at 4 p.m. Your heart is already moving in. You send a message to your agent, ready to make an offer — and that's when you hear it.
           </p>
           
-          <p className="mb-12 text-slate-600 leading-relaxed italic font-serif">
+          <p className="mb-8 text-slate-600 leading-relaxed italic font-serif border-l-4 border-blue-700 pl-6">
             "Do you have a pre-approval letter?"
           </p>
           
@@ -41,9 +45,7 @@ export default function PreApprovalBlogPost() {
             If the answer is no, you're already behind.
           </p>
 
-          <hr className="my-12 border-slate-100" />
-
-          <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">The Order Matters More Than You Think</h3>
+          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">The Order Matters More Than You Think</h3>
           <p className="mb-6 text-slate-600 leading-relaxed">
             In a competitive real estate market, the sequence of your homebuying steps isn't just a suggestion — it's a strategy. And the cardinal rule is this:
           </p>
@@ -54,9 +56,7 @@ export default function PreApprovalBlogPost() {
             It sounds simple. It's surprisingly easy to ignore. Many buyers fall into the trap of browsing homes for weeks — getting emotionally attached, mentally decorating rooms, mapping commutes — without ever picking up the phone to call a lender. By the time they find a home they love and scramble to get pre-approved, the house is gone.
           </p>
 
-          <hr className="my-12 border-slate-100" />
-
-          <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">What Pre-Approval Actually Is</h3>
+          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">What Pre-Approval Actually Is</h3>
           <p className="mb-6 text-slate-600 leading-relaxed">
             A pre-approved mortgage establishes the maximum loan amount you qualify for, based on a thorough, professional review of your financial situation and a satisfactory credit assessment. This isn't a ballpark guess — it's a verified number backed by documentation.
           </p>
@@ -64,9 +64,7 @@ export default function PreApprovalBlogPost() {
             During the process, lenders evaluate what's known as the Five Cs of Credit: Character, Capital, Capacity, Credit, and Collateral. Each factor helps the lender gauge both your ability and your likelihood to repay the debt. In today's lending environment, the process also includes a federal stress test, which ensures your income can still service the debt even if interest rates rise above your negotiated contract rate. It's a layer of protection — for both you and the lender — that keeps borrowers from overextending in an unpredictable rate environment.
           </p>
 
-          <hr className="my-12 border-slate-100" />
-
-          <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">What Pre-Approval Does For You</h3>
+          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">What Pre-Approval Does For You</h3>
           <p className="mb-8 text-slate-600 leading-relaxed">
             Getting pre-approved isn't just paperwork. It's a transformation in how you shop, how sellers see you, and how confidently you can move.
           </p>
@@ -104,22 +102,18 @@ export default function PreApprovalBlogPost() {
             </div>
           </div>
 
-          <hr className="my-12 border-slate-100" />
-
-          <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">Pre-Approval vs. Pre-Qualification: Know the Difference</h3>
+          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">Pre-Approval vs. Pre-Qualification: Know the Difference</h3>
           <p className="mb-6 text-slate-600 leading-relaxed">
             These two terms get used interchangeably, but they're not the same thing.
           </p>
           <p className="mb-6 text-slate-600 leading-relaxed">
-            <span className="font-bold text-slate-900">Pre-qualification</span> is a quick, informal estimate based on self-reported financial information. It takes minutes and means relatively little to a sophisticated seller.
+            Pre-qualification is a quick, informal estimate based on self-reported financial information. It takes minutes and means relatively little to a sophisticated seller.
           </p>
           <p className="mb-12 text-slate-600 leading-relaxed">
-            <span className="font-bold text-slate-900">Pre-approval</span> is a formal process where the lender verifies your income, assets, employment, and credit — including the stress test. It takes longer and carries real weight. When you walk into a negotiation with a pre-approval letter, you walk in with leverage.
+            Pre-approval is a formal process where the lender verifies your income, assets, employment, and credit — including the stress test. It takes longer and carries real weight. When you walk into a negotiation with a pre-approval letter, you walk in with leverage.
           </p>
 
-          <hr className="my-12 border-slate-100" />
-
-          <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">The Emotional Case For Going First</h3>
+          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">The Emotional Case For Going First</h3>
           <p className="mb-6 text-slate-600 leading-relaxed">
             Here's the underrated benefit no one talks about: pre-approval gives you confidence.
           </p>
@@ -127,19 +121,27 @@ export default function PreApprovalBlogPost() {
             When you know your number, you can shop without anxiety. You're not mentally hedging every home tour with "but can I actually afford this?" You know what you're working with. That clarity makes you a better, calmer, more decisive buyer — and that mindset matters when you're making one of the biggest financial decisions of your life.
           </p>
 
-          <hr className="my-12 border-slate-100" />
-
-          <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">How to Get Started</h3>
-          <div className="space-y-4 mb-12">
-            <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">1.</span> Choose a lender — your bank, a credit union, or a mortgage broker. Shop around; rates and terms vary.</p>
-            <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">2.</span> Gather your documents</p>
-            <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">3.</span> Submit your application — the lender reviews everything, applies the stress test, and if approved, issues a pre-approval letter with a specific loan amount and rate-hold period (typically 60–120 days).</p>
-            <p className="text-slate-600 leading-relaxed flex gap-4"><span className="font-bold text-blue-700">4.</span> Then go shopping — now you're ready.</p>
+          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">How to Get Started</h3>
+          <div className="space-y-6 mb-12">
+            <div className="flex gap-4">
+              <span className="flex-shrink-0 w-8 h-8 bg-blue-700 text-white rounded-full flex items-center justify-center font-bold text-sm">1</span>
+              <p className="text-slate-600 leading-relaxed pt-1">Choose a lender — your bank, a credit union, or a mortgage broker. Shop around; rates and terms vary.</p>
+            </div>
+            <div className="flex gap-4">
+              <span className="flex-shrink-0 w-8 h-8 bg-blue-700 text-white rounded-full flex items-center justify-center font-bold text-sm">2</span>
+              <p className="text-slate-600 leading-relaxed pt-1">Gather your documents</p>
+            </div>
+            <div className="flex gap-4">
+              <span className="flex-shrink-0 w-8 h-8 bg-blue-700 text-white rounded-full flex items-center justify-center font-bold text-sm">3</span>
+              <p className="text-slate-600 leading-relaxed pt-1">Submit your application — A pre-approved mortgage establishes the maximum loan for which you qualify based on a professional review of your financial situation and a credit assessment. Unlike a general estimate, this is a verified calculation based on documentation</p>
+            </div>
+            <div className="flex gap-4">
+              <span className="flex-shrink-0 w-8 h-8 bg-blue-700 text-white rounded-full flex items-center justify-center font-bold text-sm">4</span>
+              <p className="text-slate-600 leading-relaxed pt-1">Then go shopping — now you're ready.</p>
+            </div>
           </div>
 
-          <hr className="my-12 border-slate-100" />
-
-          <h3 className="text-3xl font-bold text-slate-900 mb-6 italic font-serif">The Bottom Line</h3>
+          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">The Bottom Line</h3>
           <p className="mb-6 text-slate-600 leading-relaxed">
             Securing pre-approval before you start shopping ensures that your search is focused, your offers are strong and credible, and your path to homeownership is as smooth as possible. A buyer who shows up pre-approved is stronger at the negotiating table, faster in a competitive situation, and more attractive in every seller's eyes.
           </p>
