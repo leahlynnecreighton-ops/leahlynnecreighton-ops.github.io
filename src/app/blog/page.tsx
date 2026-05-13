@@ -12,9 +12,9 @@ export default function BlogPage() {
     },
     {
       title: "Market Value isn't the same as List Price",
-      excerpt: "First impressions are everything. Learn how to highlight your home's best features.",
+      excerpt: "A list price isn’t a promise. It’s a strategy. Learn why market value and list price aren't always the same.",
       date: "April 28, 2026",
-      slug: "#",
+      slug: "market-value-vs-list-price",
     },
     {
       title: "Market Trends: What to Expect this Summer",
