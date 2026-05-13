@@ -20,7 +20,7 @@ export default function BlogPage() {
       title: "Pre-approval comes before shopping.",
       excerpt: "A buyer who's pre-approved is stronger, faster, and more attractive to sellers.",
       date: "May 13, 2026",
-      slug: "#",
+      slug: "pre-approval-before-shopping",
     },
   ];
 
