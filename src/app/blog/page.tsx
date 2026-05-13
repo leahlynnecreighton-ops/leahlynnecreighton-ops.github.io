@@ -17,9 +17,9 @@ export default function BlogPage() {
       slug: "market-value-vs-list-price",
     },
     {
-      title: "Market Trends: What to Expect this Summer",
-      excerpt: "An analysis of current inventory levels and interest rate projections.",
-      date: "April 10, 2026",
+      title: "Pre-approval comes before shopping.",
+      excerpt: "A buyer who's pre-approved is stronger, faster, and more attractive to sellers.",
+      date: "May 13, 2026",
       slug: "#",
     },
   ];
