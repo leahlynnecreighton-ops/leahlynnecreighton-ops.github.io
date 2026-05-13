@@ -26,7 +26,7 @@ export default function PreApprovalBlogPost() {
 
         <div className="prose prose-slate prose-lg max-w-none">
           <p className="text-xl text-slate-700 leading-relaxed font-medium mb-8">
-            Stop scrolling Zillow. Start with your lender.
+            Start with your lender.
           </p>
           
           <p className="mb-6 text-slate-600 leading-relaxed">
