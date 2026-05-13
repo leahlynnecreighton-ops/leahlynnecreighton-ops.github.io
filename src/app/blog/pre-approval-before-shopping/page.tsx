@@ -75,7 +75,7 @@ export default function PreApprovalBlogPost() {
             <div>
               <h4 className="text-xl font-bold text-slate-900 mb-2">1. You Know Your Real Budget</h4>
               <p className="text-slate-600 leading-relaxed">
-                Pre-approval gives you an honest, verified number — not a rough estimate from an online calculator. That number shapes everything: which neighborhoods make sense, what monthly payment is realistic, and where you shouldn't stretch. Knowing your realistic price range before you begin shopping provides genuine peace of mind and protects you from the financial risk of falling in love with a home you can't responsibly afford.
+                Pre-approval gives you an honest, verified number. That number shapes everything: which neighborhoods make sense, what monthly payment is realistic, and where you shouldn't stretch. Knowing your realistic price range before you begin shopping provides genuine peace of mind and protects you from the financial risk of falling in love with a home you can't responsibly afford.
               </p>
             </div>
             <div>
