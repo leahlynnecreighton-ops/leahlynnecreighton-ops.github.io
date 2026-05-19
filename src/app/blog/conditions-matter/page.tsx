@@ -11,10 +11,10 @@ export default function ConditionsMatterBlogPost() {
         <header className="mb-16">
           <p className="text-xs font-bold uppercase tracking-[0.2em] text-blue-700 mb-4">Real Estate Strategy</p>
           <h1 className="text-5xl md:text-6xl font-bold text-slate-900 mb-8 italic font-serif leading-tight">
-            Conditions matter.
+            The Safeguard of the Sale: Why Conditions Matter in Real Estate
           </h1>
           <p className="text-xl text-slate-600 mb-8 leading-relaxed font-light">
-            Most of the time, it’s the buyer who includes conditions, since they act as a safeguard during the purchase process.
+            In the journey toward homeownership, the Conditions section of your contract acts as the vital roadmap to a successful closing.
           </p>
           <div className="flex items-center gap-4 text-slate-500 text-sm font-medium uppercase tracking-wider">
             <span>May 19, 2026</span>
@@ -25,53 +25,72 @@ export default function ConditionsMatterBlogPost() {
 
         <div className="prose prose-slate prose-lg max-w-none">
           <p className="text-xl text-slate-700 leading-relaxed font-medium mb-8">
-            In the excitement of finding the perfect home, it's easy to view conditions as just more paperwork. But in reality, they are the most powerful protection a buyer has.
+            Often referred to in the industry as "subject to" clauses, these are formally known as conditions precedent.
           </p>
 
           <p className="mb-6 text-slate-600 leading-relaxed">
-            A real estate contract is a legally binding agreement. Without conditions, once you sign, you are committed to the purchase regardless of what you might discover later. Conditions create a "conditional period"—typically 5 to 10 business days—that allows you to perform your due diligence before the deal becomes firm and final.
+            In the journey toward homeownership, the Residential Contract of Purchase and Sale is the roadmap that guides both buyers and sellers to a successful closing. One of the most critical sections of this contract is the Conditions section.
           </p>
 
           <h2 className="text-3xl font-bold text-slate-900 mb-8 italic font-serif">
-            The Three Pillars of Buyer Protection
-          </h2>
-
-          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">1. Financing: Beyond the Pre-Approval</h3>
-          <p className="mb-6 text-slate-600 leading-relaxed">
-            Even if you have a pre-approval (which we always recommend!), the lender still needs to approve the specific property you've chosen. They want to ensure the home's value justifies the loan amount. A financing condition gives your lender time to review the contract and, if necessary, perform an appraisal. If the bank isn't satisfied with the property, this condition allows you to walk away with your deposit intact.
-          </p>
-
-          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">2. Home Inspection: Uncovering the Hidden</h3>
-          <p className="mb-6 text-slate-600 leading-relaxed">
-            In Saskatchewan, where shifting soils and extreme temperatures are part of life, a professional home inspection is non-negotiable. An inspector looks at the "bones" of the house—the foundation, roof, plumbing, and electrical systems. This safeguard ensures you aren't walking into a "money pit" and gives you the leverage to ask for repairs or a price adjustment if major issues are found.
-          </p>
-
-          <h3 className="text-2xl font-bold text-slate-900 mb-6 italic font-serif">3. Property Disclosure Review</h3>
-          <p className="mb-12 text-slate-600 leading-relaxed">
-            Sellers often provide a Property Condition Disclosure Statement (PCDS). This is a document where they disclose their knowledge of the home's history—past basement leaks, roof repairs, or known defects. Reviewing this with your REALTOR® ensures you have a clear picture of what you're buying before you remove your conditions.
-          </p>
-
-          <h2 className="text-3xl font-bold text-slate-900 mb-8 italic font-serif">
-            What Happens Next?
+            What is a Condition Precedent?
           </h2>
           <p className="mb-6 text-slate-600 leading-relaxed">
-            Once your conditions are satisfied, you sign a <strong>Notice to Remove Conditions</strong>. At this point, the contract becomes firm and binding. The house is officially yours (pending closing day!), and the "Sold" sign goes up.
+            A condition precedent is a term in a contract that must be satisfied before the contract is to be performed. Essentially, while the buyer and seller have reached an agreement on price and basic terms, the transaction remains "conditional" until specific unknowns are resolved.
           </p>
           <p className="mb-12 text-slate-600 leading-relaxed">
-            If, during the conditional period, a condition cannot be met—for example, if the inspection reveals a major structural issue you aren't comfortable with—you can choose not to remove your conditions. The deal then collapses, and your deposit is typically returned to you.
+            If these conditions are not satisfied or waived in writing by a specified deadline, the contract typically becomes null and void, and the buyer's deposit is returned.
           </p>
 
           <h2 className="text-3xl font-bold text-slate-900 mb-8 italic font-serif">
-            The Bottom Line
+            The Buyer’s Safeguard
           </h2>
           <p className="mb-6 text-slate-600 leading-relaxed">
-            Conditions aren't there to make the process harder; they are there to make it safer. As your REALTOR®, my job is to ensure your contract includes the right safeguards to protect your interests and your investment.
+            Most of the time, it is the buyer who includes conditions because they act as a vital safeguard during the purchase process. These clauses allow a buyer to demonstrate serious intent while protecting themselves from risks they cannot immediately assess. Common safeguards include:
+          </p>
+          
+          <div className="space-y-8 mb-12">
+            <div>
+              <h4 className="text-xl font-bold text-slate-900 mb-2">Mortgage Financing Approval</h4>
+              <p className="text-slate-600 leading-relaxed">
+                Even if a buyer is pre-qualified, this condition ensures they can secure a formal commitment from a lender for the specific property at terms they can afford.
+              </p>
+            </div>
+            <div>
+              <h4 className="text-xl font-bold text-slate-900 mb-2">Professional Home Inspection</h4>
+              <p className="text-slate-600 leading-relaxed">
+                This allows a buyer to have a qualified expert evaluate the property’s physical condition, identifying "red flags" or latent defects that may not be visible to the untrained eye.
+              </p>
+            </div>
+            <div>
+              <h4 className="text-xl font-bold text-slate-900 mb-2">Review of Condominium Documents</h4>
+              <p className="text-slate-600 leading-relaxed">
+                For re-sale condominiums, this typically involves reviewing an estoppel certificate and other corporate records to understand the financial health and bylaws of the condominium corporation.
+              </p>
+            </div>
+          </div>
+
+          <h2 className="text-3xl font-bold text-slate-900 mb-8 italic font-serif">
+            The Seller’s Perspective
+          </h2>
+          <p className="mb-6 text-slate-600 leading-relaxed">
+            While conditions protect buyers, sellers often view them as a period of uncertainty. To manage this risk, sellers may negotiate shorter timelines for condition removal.
+          </p>
+          <p className="mb-12 text-slate-600 leading-relaxed">
+            A common strategy is the Option Clause (sometimes called a time clause), which allows a seller to continue marketing the property. If the seller receives another offer, they can give the first buyer a set number of hours (e.g., a "48-hour notice") to either remove all conditions or let the contract collapse so the seller can move forward with the second buyer.
+          </p>
+
+          <h2 className="text-3xl font-bold text-slate-900 mb-8 italic font-serif">
+            The Importance of Precision
+          </h2>
+          <p className="mb-12 text-slate-600 leading-relaxed">
+            Drafting these clauses requires skill and diligence. As a registrant, my role is to ensure these conditions reflect the true intent of my clients and are worded clearly to avoid future disputes. Once a condition is met, it must be formally removed using the mandatory Notice to Remove Condition(s) form.
           </p>
 
           <div className="mt-16 pt-8 border-t border-slate-100 text-sm text-slate-500 italic">
             <p className="mb-4">Leah Creighton | Real Estate Salesperson | LPT Realty</p>
             <p>
-              Disclaimer: I am a licensed real estate registrant in the province of Saskatchewan. This information is for general educational purposes and does not constitute legal advice. Always consult with a professional regarding your specific real estate transaction.
+              Disclaimer: This blog post is for educational purposes only and does not constitute legal, accounting, or professional advice. Real estate laws and market conditions can vary; please consult with a qualified professional regarding your specific circumstances. While registrants provide valuable guidance, we are not building inspectors, engineers, or lawyers; it is a registrant's duty to recommend that you seek outside professional expertise for specialized matters.
             </p>
           </div>
         </div>
