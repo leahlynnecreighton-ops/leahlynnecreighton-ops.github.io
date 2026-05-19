@@ -22,6 +22,12 @@ export default function BlogPage() {
       date: "May 13, 2026",
       slug: "pre-approval-before-shopping",
     },
+    {
+      title: "Conditions matter.",
+      excerpt: "Most of the time, it’s the buyer who includes conditions, since they act as a safeguard during the purchase process.",
+      date: "May 19, 2026",
+      slug: "conditions-matter",
+    },
   ];
 
   return (
