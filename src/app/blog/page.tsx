@@ -4,6 +4,12 @@ import Image from "next/image";
 export default function BlogPage() {
   const posts = [
     {
+      title: "The Price You Start With Can Make, Or Cost You Tens of Thousands of Dollars",
+      excerpt: "Whether you're listing your home or hunting for one, understanding how pricing works is your single biggest advantage in today's market.",
+      date: "May 25, 2026",
+      slug: "the-price-you-start-with",
+    },
+    {
       title: "Pricing your house higher isn't always the best",
       excerpt: "During the first few days your house is on the market is a great window where buyers are excited and agents are looking. You want your house to priced just right.",
       date: "May 25, 2026",
