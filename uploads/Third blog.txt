@@ -1,15 +1,38 @@
+The Safeguard of the Sale: Why Conditions Matter in Real Estate
+By Leah Creighton, LPT Realty
+In the journey toward homeownership, the Residential Contract of Purchase and Sale is the roadmap that guides both buyers and sellers to a successful closing
+. One of the most critical sections of this contract is the Conditions section
+. Often referred to in the industry as "subject to" clauses, these are formally known as conditions precedent
+.
+What is a Condition Precedent?
+A condition precedent is a term in a contract that must be satisfied before the contract is to be performed
+. Essentially, while the buyer and seller have reached an agreement on price and basic terms, the transaction remains "conditional" until specific unknowns are resolved
+. If these conditions are not satisfied or waived in writing by a specified deadline, the contract typically becomes null and void, and the buyer's deposit is returned
+.
+The Buyer’s Safeguard
+Most of the time, it is the buyer who includes conditions because they act as a vital safeguard during the purchase process
+. These clauses allow a buyer to demonstrate serious intent while protecting themselves from risks they cannot immediately assess. Common safeguards include:
+Mortgage Financing Approval: Even if a buyer is pre-qualified, this condition ensures they can secure a formal commitment from a lender for the specific property at terms they can afford
+.
+Professional Home Inspection: This allows a buyer to have a qualified expert evaluate the property’s physical condition, identifying "red flags" or latent defects that may not be visible to the untrained eye
+.
+Review of Condominium Documents: For re-sale condominiums, this typically involves reviewing an estoppel certificate and other corporate records to understand the financial health and bylaws of the condominium corporation
+.
+The Seller’s Perspective
+While conditions protect buyers, sellers often view them as a period of uncertainty. To manage this risk, sellers may negotiate shorter timelines for condition removal
+. A common strategy is the Option Clause (sometimes called a time clause), which allows a seller to continue marketing the property
+. If the seller receives another offer, they can give the first buyer a set number of hours (e.g., a "48-hour notice") to either remove all conditions or let the contract collapse so the seller can move forward with the second buyer
+.
+The Importance of Precision
+Drafting these clauses requires skill and diligence
+. As a registrant, my role is to ensure these conditions reflect the true intent of my clients and are worded clearly to avoid future disputes
+. Once a condition is met, it must be formally removed using the mandatory Notice to Remove Condition(s) form
+.
+A Note on Professional Advice
+While registrants provide valuable guidance through the paperwork and negotiations, we are not building inspectors, engineers, or lawyers
+. It is a registrant's duty to recommend that you seek outside professional expertise for specialized matters
+. Always consult with a qualified home inspector for property condition concerns and a lawyer for legal advice regarding your contractual obligations
+.
 
-Pre-approval Comes Before Shopping: Your Competitive Edge in the 2026 Market
-In the fast-paced 2026 Saskatchewan real estate market, viewing homes without a mortgage pre-approval is like trying to buy groceries without a wallet. While attending open houses is exciting, securing your financing first is the single most important step in the residential buying process. A pre-approved buyer is mathematically stronger, strategically faster, and far more attractive to sellers.
-A Stronger Buyer: Mathematical Certainty
-A mortgage pre-approval is a formal "borrower qualification" process where a lender evaluates your financial health using the five Cs of credit: Character, Capital, Capacity, Credit, and Collateral. By analyzing your Gross Debt Service Ratio (GDSR) and Total Debt Service Ratio (TDSR), a lender determines the exact mortgage amount you can afford.
-This process specifically accounts for the federal "mortgage stress test," which requires you to qualify at a higher interest rate. Knowing these limits upfront provides "tremendous peace of mind" and prevents you from focusing on properties that are financially out of reach.
-A Faster Buyer: Speed in a Supply Crisis
-Speed is paramount in the current climate. As of April 2026, Saskatchewan’s residential housing market has tightened further, with inventory levels sitting more than 50% below historical norms in almost all regions. In this environment, desirable homes are often sold within days of hitting the market.
-A pre-approved buyer is faster because they can move directly to an offer without the delay of initial qualification. Furthermore, lenders typically guarantee an interest rate for 60 to 120 days while you shop. This protects your purchasing power from market fluctuations, ensuring that your budget remains stable even if interest rates rise before you find "the one."
-More Attractive to Sellers: Certainty in Multiple Offers
-In a market defined by low supply, multiple offer situations are common. For a seller, the "best" offer isn't always the one with the highest price; it is the one with the highest probability of closing successfully.
-Most residential contracts are "conditional," meaning they depend on the buyer obtaining bank approval. An offer from a pre-approved buyer signals to the seller that your financial background has already been vetted by a professional lender. This minimizes the seller's risk and places your offer in a "position of strength" compared to competing bids that may still face financing hurdles.
--------------------------------------------------------------------------------- 
-Leah Creighton Real Estate Salesperson LPT Realty
-Disclaimer: I am a licensed real estate registrant in the province of Saskatchewan, not a licensed mortgage specialist or financial advisor. The information provided above is for general educational purposes and is based on the April 2026 Saskatchewan Housing Market Report. I strongly recommend that all buyers seek independent professional advice from a qualified mortgage specialist or financial institution regarding their specific financing requirements
+--------------------------------------------------------------------------------
+Disclaimer: This blog post is for educational purposes only and does not constitute legal, accounting, or professional advice. Real estate laws and market conditions can vary; please consult with a qualified professional regarding your specific circumstances
