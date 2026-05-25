@@ -4,18 +4,6 @@ import Image from "next/image";
 export default function BlogPage() {
   const posts = [
     {
-      title: "The Price You Start With Can Make, Or Cost You Tens of Thousands of Dollars",
-      excerpt: "Whether you're listing your home or hunting for one, understanding how pricing works is your single biggest advantage in today's market.",
-      date: "May 25, 2026",
-      slug: "the-price-you-start-with",
-    },
-    {
-      title: "Pricing your house higher isn't always the best",
-      excerpt: "During the first few days your house is on the market is a great window where buyers are excited and agents are looking. You want your house to priced just right.",
-      date: "May 25, 2026",
-      slug: "pricing-high-not-always-best",
-    },
-    {
       title: "12 Things I Learned About Real Estate in the Past Year",
       excerpt: "The market is constantly evolving. From list price strategies to the emotional logic of negotiations, here is what 12 months in real estate taught me.",
       date: "April 20, 2026",
@@ -39,6 +27,18 @@ export default function BlogPage() {
       excerpt: "Most of the time, it’s the buyer who includes conditions, since they act as a safeguard during the purchase process.",
       date: "May 19, 2026",
       slug: "conditions-matter",
+    },
+    {
+      title: "Pricing your house higher isn't always the best",
+      excerpt: "During the first few days your house is on the market is a great window where buyers are excited and agents are looking. You want your house to priced just right.",
+      date: "May 25, 2026",
+      slug: "pricing-high-not-always-best",
+    },
+    {
+      title: "The Price You Start With Can Make, Or Cost You Tens of Thousands of Dollars",
+      excerpt: "Whether you're listing your home or hunting for one, understanding how pricing works is your single biggest advantage in today's market.",
+      date: "May 25, 2026",
+      slug: "the-price-you-start-with",
     },
   ];
 
