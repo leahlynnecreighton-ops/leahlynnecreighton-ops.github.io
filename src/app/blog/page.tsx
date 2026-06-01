@@ -40,6 +40,12 @@ export default function BlogPage() {
       date: "May 25, 2026",
       slug: "the-price-you-start-with",
     },
+    {
+      title: "Staging and Presentation drive price. Clean, bright, well-presented homes sell faster and for more",
+      excerpt: "Buying a home is emotional first, logical second. Most buyers make up their minds within the first showing — and that gut reaction translates directly into how much they're willing to offer.",
+      date: "June 1, 2026",
+      slug: "staging-and-presentation-drive-price",
+    },
   ];
 
   return (
